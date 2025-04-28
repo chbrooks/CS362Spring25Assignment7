@@ -107,10 +107,3 @@ from the bag-of-words approach?
 - Increase to 20 epochs. How does performance change? 
 
 
-
-
-- [This tutorial](https://huggingface.co/docs/transformers/tasks/question_answering) shows how to use HuggingFace transformers to do question answering, a core NLP task.
-1. Work through it.
-2. Write a wrapper for your question answerer to allow users to chat with it. Include this in your repo. (you can include it in the colab notebook if you want.)
-3. Publish model to the Hub and email me a link to it.
-4. Include the colab code in your repo.
